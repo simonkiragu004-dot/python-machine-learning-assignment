@@ -48,6 +48,7 @@ c. discover underlying patterns or grouping
 5. Why is Linear Regression considered supervised learning? - linear regression is considered supervised learning because it requires dataset with known target values 
 6. Why is K-Means considered unsupervised learning? - K-Means is considered unsupervised learning  because it receives dataset entries without predefined labels
 7. What is the difference between fit() and predict()? -
+   
    -fit() - this method trains the model
    
    -predict() - this method uses the trained model to generate predictions or assign clusters
