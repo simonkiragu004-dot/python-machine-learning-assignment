@@ -77,7 +77,7 @@ c. discover underlying patterns or grouping
     1. E-mail spam detection
     2. Medical Disease Diagnosis
        
-  -unsupervised  learning
+  - unsupervised  learning
   
     1. customer segmentation
     
