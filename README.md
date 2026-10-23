@@ -1,24 +1,25 @@
 SIMON MWANGI KIRAGU
+
 SUPERVISED AND UNSUPERVISED MACHINE LEARNING PROJECT
 
-Student Exam Score Prediction (Supervised Learning)-
+-Student Exam Score Prediction (Supervised Learning)-
 This project implements a (Linear Regression model) to predict examination scores based on the number of hours a student stuidies
 it trains from known labelled data
 
-Customer Segmentation (Unsupervised Learning)- this project uses k-means clustering to automatically group supermarket customers based on their spending habits and store visit frequencies
+-Customer Segmentation (Unsupervised Learning)- this project uses k-means clustering to automatically group supermarket customers based on their spending habits and store visit frequencies
 it works witth unlabeled data
 
-Installing dependencies and Running of code
+-Installing dependencies and Running of code
 you have to run different commands:
-python -m venv venv
-  venv/Scripts/Activate
-  Install the required packages using pip install: 
-  pip install scikit-learn
-  pip install numpy
-  pip install matplotlib
-pip install -r requirements.txt
+ .python -m venv venv
+ .venv/Scripts/Activate
+.Install the required packages using pip install: 
+ .pip install scikit-learn
+.pip install nump
+.pip install matplotlib
+ .pip install -r requirements.txt
 
-To run the code script, you run;
+-To run the code script, you run;
 for supervised machine learning; python3 superviised-ml.py
 for unsupervised machine learning; python3 unsupervised-ml.py
 
