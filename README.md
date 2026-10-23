@@ -65,6 +65,9 @@ c. discover underlying patterns or grouping
     2. Medical Disease Diagnosis
        
   -unsupervised  learning
+  
     1. customer segmentation
+    
     2. Anomaly detection in cyber Security
+    
      
