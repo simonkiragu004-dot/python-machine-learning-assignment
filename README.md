@@ -34,8 +34,10 @@ for unsupervised machine learning; python3 unsupervised-ml.py
 THEORY QUESTIONS
 1. What is supervised machine learning? its a type of machine learning where models learns through labeled data
 2. What is unsupervised machine learning? its a type of machine learning where model learns through unlabeled data
-3. Explain the difference between supervised and unsupervised learning. 
+3. Explain the difference between supervised and unsupervised learning.
+   
 -supervised machine learning -
+
 a. learns through labelled data
 
 b. uses linear regression to train data
