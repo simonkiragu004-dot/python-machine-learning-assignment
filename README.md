@@ -8,6 +8,7 @@ This project implements a (Linear Regression model) to predict examination score
 it trains from known labelled data
 
 -Customer Segmentation (Unsupervised Learning)-
+
 This project uses k-means clustering to automatically group supermarket customers based on their spending habits and store visit frequencies
 it works witth unlabeled data
 
