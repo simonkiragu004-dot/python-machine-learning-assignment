@@ -36,10 +36,10 @@ for unsupervised machine learning; python3 unsupervised-ml.py
 
 THEORY QUESTIONS
 1. What is supervised machine learning?
-   its a type of machine learning where models learns through labeled data
+   -its a type of machine learning where models learns through labeled data
    
 3. What is unsupervised machine learning?
-    its a type of machine learning where model learns through unlabeled data
+    -its a type of machine learning where model learns through unlabeled data
    
 4. Explain the difference between supervised and unsupervised learning.
    
@@ -62,10 +62,10 @@ c. discover underlying patterns or grouping
 5. Why is Linear Regression considered supervised learning? -
     linear regression is considered supervised learning because it requires dataset with known target values
    
-6. Why is K-Means considered unsupervised learning? -
+. Why is K-Means considered unsupervised learning? -
    K-Means is considered unsupervised learning  because it receives dataset entries without predefined labels
    
-. What is the difference between fit() and predict()? -
+6. What is the difference between fit() and predict()? -
    
    -fit() - this method trains the model
    
