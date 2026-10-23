@@ -37,12 +37,17 @@ THEORY QUESTIONS
 3. Explain the difference between supervised and unsupervised learning. 
 -supervised machine learning -
 a. learns through labelled data
+
 b. uses linear regression to train data
+
 C. predict a specific target value or class
 
 -unsupervised machine learning -
+
 a. learns through unlabeled data
+
 b. uses k-means clustering
+
 c. discover underlying patterns or grouping
 
 5. Why is Linear Regression considered supervised learning? - linear regression is considered supervised learning because it requires dataset with known target values 
